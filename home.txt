@@ -1,1 +1,3 @@
 name: anhlt
+tuoi: 27
+nghe nghiep: lap trinh vien
