@@ -1,0 +1,11 @@
+﻿các lệnh trong github:
+
+1. git clone : tạo bản copy ở máy local tại nơi thư mục chạy gitbash
+2. git status: kiểm tra trạng thái code ở local
+3. git add *: thêm tất cả những sự thay đổi code vào git ở local
+3. git add filename: thêm những sự thay đổi của filename code vào git ở local
+4. commit -m''content comment'': lưu sụ thay đổi code vào local
+5. git push: đẩy code từ local lên github
+6. git pull: get code từ github về local
+7. git log: xem lịch sử thay đổi code->  id
+8. git reverts id : khôi phục lại các phiên bản trước đó qua id version.
